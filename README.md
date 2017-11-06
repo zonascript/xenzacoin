@@ -1,7 +1,7 @@
 xenzacoin integration/staging tree
 ================================
 
-http://www.xenzacoin.org
+http://www.xenzacoin.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the xenzacoin client sofware, see http://www.xenzacoin.org.
+the xenzacoin client sofware, see http://www.xenzacoin.com.
 
 License
 -------
